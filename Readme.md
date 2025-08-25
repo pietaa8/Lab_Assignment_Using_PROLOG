@@ -25,6 +25,10 @@ The following screenshots illustrate the implementation and execution of the ass
 3. **Sample Goal Execution and Output**  
    ![Goal Execution](images/ch-2_prolog3.png)
 
+   ![Alt text](images/ch-3_prolog1.png)
+   ![Alt text](images/ch-3_prolog2.png)
+   ![Alt text](images/ch-3_prolog3.png)
+
 ---
 
 ## Notes
