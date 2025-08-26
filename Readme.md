@@ -28,6 +28,10 @@ The following screenshots illustrate the implementation and execution of the ass
    ![Alt text](images/ch-3_prolog1.png)
    ![Alt text](images/ch-3_prolog2.png)
    ![Alt text](images/ch-3_prolog3.png)
+   ![Alt text](images/chapter_6_program_17.png)
+   ![Alt text](images/chapter_6_program_18.png)
+   ![Alt text](images/chapter_6_program_19.png)
+   ![Alt text](images/chapter_6_program_20.png)
 
 ---
 
