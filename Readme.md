@@ -35,7 +35,7 @@ The following screenshots illustrate the implementation and execution of the ass
    ![Alt text](images/CH5PROG-13.png)
    ![Alt text](images/CH5PROG-14.png)
    ![Alt text](images/CH5PROG-15.png)
-   ![Alt text](images/CH5PROG-16.png)
+   ![Alt text](images/CH5PROG16.png)
 
 ---
 
